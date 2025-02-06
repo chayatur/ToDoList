@@ -213,3 +213,4 @@ C:\Users\user1\Desktop\חיה תכנות\לימודים ו\פרקטיקודים\
 C:\Users\user1\Desktop\חיה תכנות\לימודים ו\פרקטיקודים\פרקטיקוד3-4\TodoApi-server\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\user1\Desktop\חיה תכנות\לימודים ו\פרקטיקודים\פרקטיקוד3-4\TodoApi-server\obj\Debug\net8.0\ref\TodoApi.dll
 C:\Users\user1\Desktop\חיה תכנות\לימודים ו\פרקטיקודים\פרקטיקוד3-4\TodoApi-server\bin\Debug\net8.0\package-lock.json
+C:\Users\user1\Desktop\חיה תכנות\לימודים ו\פרקטיקודים\פרקטיקוד3-4\TodoApi-server\obj\Debug\net8.0\TodoApi.sourcelink.json
