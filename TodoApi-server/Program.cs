@@ -84,7 +84,7 @@ app.MapDelete("/items/{id}", async (int id, ToDoDbContext toDoDbContext) =>
     return Results.NoContent(); // Return 204 No Content response
 });
 
-
+app.MapGet("/",()=>"ToDoApi server is runing");
 app.MapMethods("/options-or-head", new[] { "OPTIONS", "HEAD" }, 
                           () => "This is an options or head request ");
 
